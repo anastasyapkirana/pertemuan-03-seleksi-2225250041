@@ -1,9 +1,9 @@
 # Pertemuan 03 Seleksi Python
-
+```
 Nama: Anastasya Putri Kirana
 NIM: 2225250041
 Kelas: 3A
-
+```
 ## Tujuan
 
 Menulis program seleksi menggunakan if, if-else, kondisi majemuk, dan nested if.
